@@ -7,6 +7,21 @@ import report as rp
 
 st.set_page_config(layout="wide")
 
+
+st.markdown("""
+<div style="padding:20px; background: linear-gradient(90deg, #1b4332, #2d6a4f);
+            border-radius:16px; color:white;">
+    <h1>♻️ Economía Circular & Gestión de Residuos</h1>
+    <h3>Indicadores clave para la toma de decisiones ambientales</h3>
+</div>
+""", unsafe_allow_html=True)
+
+st.write("")
+st.markdown("""
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+""", unsafe_allow_html=True)
+
+
 # -------------------------
 # CARGA
 # -------------------------
@@ -34,6 +49,44 @@ st.markdown("""
 # ♻️ Economía Circular & Gestión de Residuos  
 ### Indicadores clave para la toma de decisiones ambientales
 """)
+
+st.markdown(
+    """
+    <style>
+    /* Fondo general */
+    .stApp {
+        background-color: #f4f7f6;
+        font-family: "Inter", sans-serif;
+    }
+
+    /* Títulos */
+    h1, h2, h3 {
+        color: #1b4332;
+        font-weight: 600;
+    }
+
+    /* Subtítulos */
+    h4, h5, h6 {
+        color: #2d6a4f;
+    }
+
+    /* Tarjetas KPI */
+    div[data-testid="metric-container"] {
+        background-color: white;
+        border-radius: 12px;
+        padding: 16px;
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.04);
+    }
+
+    /* Alerts */
+    .stAlert {
+        border-radius: 10px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 
 # -------------------------
 # KPIs
