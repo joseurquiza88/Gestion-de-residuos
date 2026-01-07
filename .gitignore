@@ -1,0 +1,4 @@
+# Ignorar carpeta data
+app/data/
+# Ignora entorno virtual python
+.venv/

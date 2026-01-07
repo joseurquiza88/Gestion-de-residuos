@@ -1,0 +1,109 @@
+mes,residuo_generado,destino,kg_tratados
+2024-01,Carton,Reciclaje,1050
+2024-01,Plastico,Reciclaje,565
+2024-01,Plastico,Disposicion final,150
+2024-01,Madera,Reciclaje,265
+2024-01,Madera,Valorizacion energetica,150
+2024-01,Madera,Venta pallets,10
+2024-01,Organicos,Compostaje,250
+2024-01,Peligrosos,Tratamiento especializado,0
+2024-01,Otros,Disposicion final,0
+2024-02,Carton,Reciclaje,100
+2024-02,Plastico,Reciclaje,265
+2024-02,Plastico,Disposicion final,275
+2024-02,Madera,Reciclaje,48
+2024-02,Madera,Valorizacion energetica,150
+2024-02,Madera,Venta pallets,100
+2024-02,Organicos,Compostaje,28
+2024-02,Peligrosos,Tratamiento especializado,35
+2024-02,Otros,Disposicion final,80
+2024-03,Carton,Reciclaje,1100
+2024-03,Plastico,Reciclaje,600
+2024-03,Plastico,Disposicion final,200
+2024-03,Madera,Reciclaje,150
+2024-03,Madera,Valorizacion energetica,115
+2024-03,Madera,Venta pallets,0
+2024-03,Organicos,Compostaje,300
+2024-03,Peligrosos,Tratamiento especializado,15
+2024-03,Otros,Disposicion final,10
+2024-04,Carton,Reciclaje,350
+2024-04,Plastico,Reciclaje,145
+2024-04,Plastico,Disposicion final,0
+2024-04,Madera,Reciclaje,65
+2024-04,Madera,Valorizacion energetica,350
+2024-04,Madera,Venta pallets,10
+2024-04,Organicos,Compostaje,100
+2024-04,Peligrosos,Tratamiento especializado,207
+2024-04,Otros,Disposicion final,298
+2024-05,Carton,Reciclaje,100
+2024-05,Plastico,Reciclaje,65
+2024-05,Plastico,Disposicion final,275
+2024-05,Madera,Reciclaje,448
+2024-05,Madera,Valorizacion energetica,89
+2024-05,Madera,Venta pallets,100
+2024-05,Organicos,Compostaje,28
+2024-05,Peligrosos,Tratamiento especializado,765
+2024-05,Otros,Disposicion final,80
+2024-06,Carton,Reciclaje,0
+2024-06,Plastico,Reciclaje,600
+2024-06,Plastico,Disposicion final,22
+2024-06,Madera,Reciclaje,750
+2024-06,Madera,Valorizacion energetica,139
+2024-06,Madera,Venta pallets,450
+2024-06,Organicos,Compostaje,39
+2024-06,Peligrosos,Tratamiento especializado,30
+2024-06,Otros,Disposicion final,10
+2024-07,Carton,Reciclaje,330
+2024-07,Plastico,Reciclaje,185
+2024-07,Plastico,Disposicion final,148
+2024-07,Madera,Reciclaje,65
+2024-07,Madera,Valorizacion energetica,136
+2024-07,Madera,Venta pallets,10
+2024-07,Organicos,Compostaje,150
+2024-07,Peligrosos,Tratamiento especializado,90
+2024-07,Otros,Disposicion final,297
+2024-08,Carton,Reciclaje,100
+2024-08,Plastico,Reciclaje,15
+2024-08,Plastico,Disposicion final,275
+2024-08,Madera,Reciclaje,308
+2024-08,Madera,Valorizacion energetica,0
+2024-08,Madera,Venta pallets,100
+2024-08,Organicos,Compostaje,28
+2024-08,Peligrosos,Tratamiento especializado,165
+2024-08,Otros,Disposicion final,80
+2024-09,Carton,Reciclaje,150
+2024-09,Plastico,Reciclaje,600
+2024-09,Plastico,Disposicion final,222
+2024-09,Madera,Reciclaje,700
+2024-09,Madera,Valorizacion energetica,75
+2024-09,Madera,Venta pallets,50
+2024-09,Organicos,Compostaje,50
+2024-09,Peligrosos,Tratamiento especializado,30
+2024-09,Otros,Disposicion final,10
+2024-10,Carton,Reciclaje,500
+2024-10,Plastico,Reciclaje,115
+2024-10,Plastico,Disposicion final,60
+2024-10,Madera,Reciclaje,15
+2024-10,Madera,Valorizacion energetica,112
+2024-10,Madera,Venta pallets,10
+2024-10,Organicos,Compostaje,100
+2024-10,Peligrosos,Tratamiento especializado,50
+2024-10,Otros,Disposicion final,200
+2024-11,Carton,Reciclaje,100
+2024-11,Plastico,Reciclaje,25
+2024-11,Plastico,Disposicion final,275
+2024-11,Madera,Reciclaje,248
+2024-11,Madera,Valorizacion energetica,10
+2024-11,Madera,Venta pallets,100
+2024-11,Organicos,Compostaje,28
+2024-11,Peligrosos,Tratamiento especializado,65
+2024-11,Otros,Disposicion final,80
+2024-12,Carton,Reciclaje,122
+2024-12,Plastico,Reciclaje,600
+2024-12,Plastico,Disposicion final,100
+2024-12,Madera,Reciclaje,500
+2024-12,Madera,Valorizacion energetica,70
+2024-12,Madera,Venta pallets,40
+2024-12,Organicos,Compostaje,35
+2024-12,Peligrosos,Tratamiento especializado,30
+2024-12,Otros,Disposicion final,10
