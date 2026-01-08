@@ -38,14 +38,14 @@ mes,residuo_generado,destino,kg_tratados
 2024-05,Carton,Reciclaje,100
 2024-05,Plastico,Reciclaje,65
 2024-05,Plastico,Disposicion final,275
-2024-05,Madera,Reciclaje,448
+2024-05,Madera,Reciclaje,100
 2024-05,Madera,Valorizacion energetica,89
 2024-05,Madera,Venta pallets,100
 2024-05,Organicos,Compostaje,28
 2024-05,Peligrosos,Tratamiento especializado,765
 2024-05,Otros,Disposicion final,80
 2024-06,Carton,Reciclaje,0
-2024-06,Plastico,Reciclaje,600
+2024-06,Plastico,Reciclaje,120
 2024-06,Plastico,Disposicion final,22
 2024-06,Madera,Reciclaje,750
 2024-06,Madera,Valorizacion energetica,139
@@ -54,7 +54,7 @@ mes,residuo_generado,destino,kg_tratados
 2024-06,Peligrosos,Tratamiento especializado,30
 2024-06,Otros,Disposicion final,10
 2024-07,Carton,Reciclaje,330
-2024-07,Plastico,Reciclaje,185
+2024-07,Plastico,Reciclaje,50
 2024-07,Plastico,Disposicion final,148
 2024-07,Madera,Reciclaje,65
 2024-07,Madera,Valorizacion energetica,136
@@ -64,7 +64,7 @@ mes,residuo_generado,destino,kg_tratados
 2024-07,Otros,Disposicion final,297
 2024-08,Carton,Reciclaje,100
 2024-08,Plastico,Reciclaje,15
-2024-08,Plastico,Disposicion final,275
+2024-08,Plastico,Disposicion final,120
 2024-08,Madera,Reciclaje,308
 2024-08,Madera,Valorizacion energetica,0
 2024-08,Madera,Venta pallets,100
@@ -72,8 +72,8 @@ mes,residuo_generado,destino,kg_tratados
 2024-08,Peligrosos,Tratamiento especializado,165
 2024-08,Otros,Disposicion final,80
 2024-09,Carton,Reciclaje,150
-2024-09,Plastico,Reciclaje,600
-2024-09,Plastico,Disposicion final,222
+2024-09,Plastico,Reciclaje,32
+2024-09,Plastico,Disposicion final,150
 2024-09,Madera,Reciclaje,700
 2024-09,Madera,Valorizacion energetica,75
 2024-09,Madera,Venta pallets,50
@@ -99,7 +99,7 @@ mes,residuo_generado,destino,kg_tratados
 2024-11,Peligrosos,Tratamiento especializado,65
 2024-11,Otros,Disposicion final,80
 2024-12,Carton,Reciclaje,122
-2024-12,Plastico,Reciclaje,600
+2024-12,Plastico,Reciclaje,58
 2024-12,Plastico,Disposicion final,100
 2024-12,Madera,Reciclaje,500
 2024-12,Madera,Valorizacion energetica,70
